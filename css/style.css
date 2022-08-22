@@ -111,6 +111,7 @@ h3 {
 .cards {
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 
 .card {
@@ -152,4 +153,18 @@ h3 {
 .card-text h3 {
     color: black;
     font-size: 18px;
+}
+
+/* cards end here */
+
+.footer-part {
+    background-color: black;
+    color: salmon;
+    text-align: center;
+    height: 120px;
+    padding-top: 15px;
+}
+
+#footer-text {
+    font-family: Helvetica, sans-serif;
 }
