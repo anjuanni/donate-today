@@ -157,6 +157,41 @@ h3 {
 
 /* cards end here */
 
+/* our updates part style */
+.update-area {
+    margin-bottom: 50px;
+}
+
+#input-button2 {
+    width: 260px;
+    height: 30px;
+    background-color: lavender;
+    border-radius: 5px;
+    border: none;
+}
+
+/* form style */
+.form {
+    width: 540px;
+    height: 150px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 4px;
+}
+
+#form-center {
+    position: relative;
+    top: 60px;
+}
+
+#subscribe-button {
+    padding: 8px 25px;
+    border: none;
+    border-radius: 3px;
+    background-image: linear-gradient(salmon, tomato);
+}
+
 .footer-part {
     background-color: black;
     color: salmon;
